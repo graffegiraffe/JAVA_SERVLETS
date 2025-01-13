@@ -1,7 +1,6 @@
 package by.rublevskaya.servlet;
 
 import by.rublevskaya.log.CustomLogger;
-import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
